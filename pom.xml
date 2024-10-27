@@ -41,7 +41,7 @@
         <dependency>
 			<groupId>com.github.ItsNekoRx28</groupId>
 			<artifactId>TsDetect-Maven-Plugin</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<version>1.0</version>
 		</dependency>
 	</dependencies>
 
